@@ -49,10 +49,10 @@
 
 Таблица *comments*
 | Название | Тип | NULL | Описание |
-| :------: | :------: | :------: | :------: | :------: |
-| **message_id** | INT  |  | NO | Идентификатор поста |
-| **text** | TEXT |  | NO | Текст комментария |
-| **time** | DATETIME |  | NO | Дата создания комментария |
+| :------: | :------: | :------: | :------: |
+| **message_id** | INT  | NO | Идентификатор поста |
+| **text** | TEXT | NO | Текст комментария |
+| **time** | DATETIME | NO | Дата создания комментария |
 
 
 #### 5. [Алгоритмы](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#R5Vpdb5swFP01eWyFzWce26Yf0rJpUidt68vkJW7wBhiB05D9%2BhmwwQaaMDWJu%2FaF2Jdrg4%2FPudd2mNhXcXGboTT8SJc4mkBrWUzs2QRCYDsB%2Fykt29riA1gbVhlZCqfWcE%2F%2BYGG0hHVNljjXHBmlESOpblzQJMELptlQltGN7vZII%2F2pKVrhnuF%2BgaK%2B9StZslBYgTdtb9xhsgrFowPo1zdiJJ3FSPIQLelGMdnXE%2Fsqo5TVpbi4wlEJnsSlbnfzzN3mxTKcsDENfnz87BEyd5K7p%2BL7I3G%2BzOcPZ7KbnG3liPGSAyCqNGMhXdEERdet9TKj62SJy24tXmt95pSm3Ai48RdmbCtmE60Z5aaQxZG4iwvCvinl72VX566ozQrRc1XZykrCsm3TqKworcpq26yqyXZ9mOSQ6Tpb4B3YAKd2LAFRWgp0bzGNMX8Qd8hwhBh50hmDBPFWjZ9oepFlaKs4pJQkLFd6%2FlwauIPQkOcIAgkFnQHL68z03hZ2oLXghfothtu70%2BfaNy%2FNULbCTLTTOlaQaU0VFYdp%2BenhFnyIgIfIfTqHPyj8EuAzu37aE4rWAlUTNB2c%2Fr1cGhyQDF0VbDv84AsZpk3Ev6LuvlfUHZOo%2B%2B8Vdc8k6qCHOuEAFudpmPbg34SE4fsUVaPe8HWODh3K03rl8UiKcgoElk84Y7jYjWZ%2F9DIEe3oIlhF9065BZEgO1dWHdSy4pm%2BNpXAkS0FgkqawDzvHbjorr5dWdb2prsGEAxQAaedlWF35Y2s3X2lyVV1d6cbLF1WZp10PxSW9k5952uCtzHEW0vjnmo%2Fyco8oDqGBzjIGWn0RAHhSFThvTQXOWBXYJlUwAHupgpr515L5DZlrkkNFFx0tXCpuU8F%2Fk0y390f70xL9zUV7byTPjQZ772DB%2FkIqown2Tcjn15muFV62ZLeVIExKwYevTAqgv1L8z7UQjI351vBMnUYMwbAYoBLba347FekbQrvKekZPCi%2FVBi%2Ff9Kb%2B%2BIqYdhThjlSEdzRFGBHA8PlfU9l5%2BneYba01VjcvlM0zh3q%2BTgNgn%2FZITg6%2FK0hHkRNQMhVUVlqNtJok4x5IjfJZdWEKxCtp9s66ECgvVvfjyc2PtaBxzImRn78CnYOpcaEPLEj%2B79QH7LEadk3mPjBw%2Ft1dCXr66q%2BvLOmsCW2myO1G3%2Flbc%2FIbG%2BA98F5bfvON5jfLVH5zT5TfXjY5A39SlNJQE5BK8nFpSEscI%2FMFx96KcZ6jFc5fgWzMpwv45nZKYOxWCRrdKoGj7ZX2HhpXmjg9%2BbtHw7ZvnPxmN0Va0rDO%2FXFfRRzmj5ST7ov%2B9esJt7t7dnZ%2FO9H1B9aOLycOtbeCx9lbjVTvgfdQBnNiNyy44HhhgVfbb7dqIrRfwNnXfwE%3D)
